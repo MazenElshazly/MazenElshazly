@@ -42,7 +42,7 @@ CS student @ Cairo University | Building things with React, Node, Python & Java
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenElshazly&layout=donut&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenElshazly&layout=donut&theme=tokyonight&count_private=true&hide=jupyter%20notebook)
 
 ---
 
