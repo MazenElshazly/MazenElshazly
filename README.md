@@ -34,4 +34,9 @@ CS student @ Cairo University | Building things with React, Node, Python & Java
 
 ---
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 📍 Cairo, Egypt · [LinkedIn](https://www.linkedin.com/in/mazenelshazly2005/) · [GitHub](https://github.com/MazenElshazly)
