@@ -44,4 +44,8 @@ CS student @ Cairo University | Building things with React, Node, Python & Java
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenElshazly&layout=donut&theme=tokyonight)
 
+---
+
+![Snake](https://raw.githubusercontent.com/MazenElshazly/MazenElshazly/output/github-contribution-grid-snake-dark.svg)
+
 📍 Cairo, Egypt · [LinkedIn](https://www.linkedin.com/in/mazenelshazly2005/) · [GitHub](https://github.com/MazenElshazly)
