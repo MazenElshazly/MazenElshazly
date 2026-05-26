@@ -40,4 +40,8 @@ CS student @ Cairo University | Building things with React, Node, Python & Java
 ![javascript](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenElshazly&layout=donut&theme=tokyonight)
+
 📍 Cairo, Egypt · [LinkedIn](https://www.linkedin.com/in/mazenelshazly2005/) · [GitHub](https://github.com/MazenElshazly)
