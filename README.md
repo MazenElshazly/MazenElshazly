@@ -1,4 +1,4 @@
-# Hey, I'm Mazen 👋
+
 
 CS student @ Cairo University | Building things with React, Node, Python & Java
 
@@ -15,7 +15,7 @@ CS student @ Cairo University | Building things with React, Node, Python & Java
 ## 🛠️ Tech Stack
 
 **Frontend:** React · Next.js · JavaScript · TypeScript · HTML · CSS · Tailwind · Bootstrap  
-**Backend:** Node.js · REST APIs · Firebase  
+**Backend:** Node.js · REST APIs ·   
 **Languages:** Python · Java · C++ · SQL  
 **Tools:** Git · MongoDB · ClickUp · VS Code  
 **Practices:** OOP · Agile · MVC · Design Patterns
