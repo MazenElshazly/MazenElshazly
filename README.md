@@ -69,8 +69,10 @@ Tools
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MazenElshazly&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MazenElshazly&theme=tokyonight)
 
----
+
 Watch a snake eat my Contributions!
+---
+
 
 ![Snake](https://raw.githubusercontent.com/MazenElshazly/MazenElshazly/output/github-contribution-grid-snake-dark.svg)
 
