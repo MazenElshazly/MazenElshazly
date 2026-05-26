@@ -76,7 +76,9 @@ Tools
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+I'm+Mazen+👋;CS+Student+%40+Cairo+University;Full-Stack+Developer;I+build+intelligent+systems;Let's+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=500&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hey+I'm+Mazen+👋;CS+Student+%40+Cairo+University;Full-Stack+Developer;I+build+intelligent+systems;Let's+build+something+amazing!)](https://git.io/typing-svg)
+
+
 
 
 📍 Cairo, Egypt · [LinkedIn](https://www.linkedin.com/in/mazenelshazly2005/) · [GitHub](https://github.com/MazenElshazly)
