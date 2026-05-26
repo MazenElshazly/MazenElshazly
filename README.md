@@ -1,4 +1,4 @@
-
+👋 Hi, I'm Mazen 
 
 CS student @ Cairo University | Building things with React, Node, Python & Java
 
